@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ie.wit.pridenjoy.activities.Home">
+
+    <include
+        layout="@layout/app_bar_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <item
+        android:id="@+id/option_reportIssue"
+        android:orderInCategory="100"
+        android:title="@string/report_an_issue"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/option_signOut"
+        android:orderInCategory="100"
+        android:title="@string/sign_out"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/item_delete"
+        android:title="@string/delete_option"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>

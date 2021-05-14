@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_createEvent"
+            android:icon="@drawable/ic_nav_create"
+            android:title="Create / Host Event" />
+        <item
+            android:id="@+id/nav_myEvents"
+            android:icon="@drawable/ic_nav_calendar"
+            android:title="My Events" />
+        <item
+            android:id="@+id/nav_upcomingEvents"
+            android:icon="@drawable/ic_menu_report_all"
+            android:title="All Upcoming Events" />
+
+        <item
+            android:id="@+id/nav_favourites"
+            android:icon="@drawable/ic_menu_favorites"
+            android:title="@string/menu_favourites" />
+
+        <item android:title="Communicate">
+            <menu>
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_nav_share"
+                    android:title="Share" />
+                <item
+                    android:id="@+id/nav_checkUpdates"
+                    android:icon="@drawable/ic_nav_updates"
+                    android:title="Check for Updates"
+                    android:visible="false"/>
+
+            </menu>
+        </item>
+
+
+<item android:title="Tools">
+<menu>
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_nav_settings"
+        android:title="Settings" />
+</menu>
+</item>
+
+
+    <item android:title="User">
+        <menu>
+            <item
+                android:id="@+id/nav_account"
+                android:icon="@drawable/ic_nav_account"
+                android:title="My Account" />
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="@string/sign_out" />
+        </menu>
+    </item>
+    </group>
+</menu>
+

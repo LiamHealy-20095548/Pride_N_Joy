@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Pride N\' Joy</string>
+
+    <string name="view_events">VIEW ALL EVENTS</string>
+    <string name="create_event">CREATE NEW EVENT</string>
+
+    <string name="report_an_issue">Report an Issue</string>
+
+    <string name="delete_option">DELETE</string>
+
+    <string name="navigation_drawer_close">CLOSE</string>
+    <string name="navigation_drawer_open">OPEN</string>
+
+    <string name="action_edit">EDIT EVENT</string>
+    <string name="select_event_image">Choose Event Image</string>
+
+    <string name="event_Title">Event Title</string>
+    <string name="event_Details">Event Details</string>
+
+    <string name="edit_details_below">Edit your event details below</string>
+    <string name="hint_eventTitle">Give your event a title</string>
+    <string name="hint_eventDetails">Brief details about your event (max 120 characters)</string>
+    <string name="action_update">Update Event</string>
+
+    <string name="select_category">Category Is</string>
+    <string name="food_trade_show">Food / Trade Show</string>
+    <string name="business_technology">Business / Tech</string>
+    <string name="charity_fundraising">Charity / Fundraising</string>
+    <string name="social_networking">Social / Networking</string>
+    <string name="music_live_performances">Music / Live Performance</string>
+    <string name="art_workshops">Art / Workshop</string>
+
+
+    <string name="messageLoading">Loading list of events</string>
+    <string name="select_profile_image">Choose profile pic</string>
+    <string name="nav_header_title">Pride N\' Joy</string>
+    <string name="my_profile_title">MY PROFILE</string>
+    <string name="profile_page">User profile details will be displayed here</string>
+    <string name="enter_details_below">Enter details of your event below</string>
+    <string name="my_events_title">MY EVENTS</string>
+    <string name="favourites_title">MY FAVOURITES</string>
+    <string name="category">Category</string>
+    <string name="email_host">Email Host ~ Coming Soon...</string>
+    <string name="all_upcoming_events_title">ALL UPCOMING EVENTS</string>
+    <string name="category_art">Category</string>
+
+
+    <!-- START Firebase Resources-->
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="login_title_text">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placemark_image_placeholder">Event Image</string>
+    <string name="placemark_title_placeholder">Title</string>
+    <string name="placemark_description_placeholder">Details</string>
+    <string name="nav_header_desc">Header</string>
+    <string name="nav_header_subtitle">pridenjoy@android.com</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_report_all">^REPORT ALL*</string>
+    <string name="menu_about">My Account</string>
+    <string name="user_signed_out">User Signed Out</string>
+    <string name="edit_event_image">Change Event Image</string>
+
+
+    <!--END Firebase Resources-->
+
+
+</resources>

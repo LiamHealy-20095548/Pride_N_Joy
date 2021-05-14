@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81867011253",
+    "firebase_url": "https://pride-n-joy1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pride-n-joy1",
+    "storage_bucket": "pride-n-joy1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81867011253:android:20279846b0233740fabafc",
+        "android_client_info": {
+          "package_name": "ie.wit.pridenjoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81867011253-c53k5fpubdguek8sd6qlrcrh9tbrskir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit.pridenjoy",
+            "certificate_hash": "f5cbf961f5ed601bfdc96a36771a527d384a8aae"
+          }
+        },
+        {
+          "client_id": "81867011253-ik98teok3cvcukbuuuiujvkd10novoht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcetG9q1nTOvWQnCYHLUorb24IZf2798Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81867011253-ik98teok3cvcukbuuuiujvkd10novoht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
